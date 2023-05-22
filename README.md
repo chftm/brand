@@ -6,7 +6,7 @@
 
 Наша невероятная компания представляет невероятные фирменные цвета:
 
-![tg_image_2260618320](https://github.com/chftm/brand/assets/83007290/0f515c6e-0c9c-4764-8bf4-f55ffcc5cd0a)
+[<img src="https://user-images.githubusercontent.com/83007290/239884232-0f515c6e-0c9c-4764-8bf4-f55ffcc5cd0a.jpeg" width=100%>](https://coolors.co/00212e-095043-127f59-1aae6e-23dd83)
 
 Вот они, слева направо:
 - Кристаллический красный (#00212E)
