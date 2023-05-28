@@ -17,6 +17,6 @@
 
 ## Шрифты
 
-[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83007290/239887495-3fac289f-a201-4dcc-b39a-a1c3bd3ecc12.png" width=30%>](https://unbounded.polkadot.network/)
+[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83007290/239887495-3fac289f-a201-4dcc-b39a-a1c3bd3ecc12.png" width=250px>](https://unbounded.polkadot.network/)
 
-[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83007290/239888473-c453870d-e725-47ae-8b19-461c9fe52fcb.png" width=30%>](https://www.paratype.ru/fonts/pt/pt-mono)
+[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83007290/239888473-c453870d-e725-47ae-8b19-461c9fe52fcb.png" width=250px>](https://www.paratype.ru/fonts/pt/pt-mono)
