@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="73.881683"
-   height="7.589159"
+   width="99.204025"
+   height="28"
    role="img"
    aria-label="SPIGOTMC"
    version="1.1"
@@ -19,15 +19,15 @@
      fill="#ff6a00"
      id="rect1912"
      style="fill:#00212e;fill-opacity:1;stroke-width:0.93285"
-     x="-19.906977"
-     y="-9.4702663" /><g
+     x="0"
+     y="0" /><g
      fill="#ffffff"
      text-anchor="middle"
      font-family="Verdana, Geneva, 'DejaVu Sans', sans-serif"
      text-rendering="geometricPrecision"
      font-size="100px"
      id="g12"
-     transform="matrix(1.0608278,0,0,1.0608278,12.607131,-4.5314877)"
+     transform="matrix(1.0608278,0,0,1.0608278,32.514108,4.9387786)"
      style="fill:#bfdd23;fill-opacity:1"><g
        aria-label="Математик"
        id="text971"
